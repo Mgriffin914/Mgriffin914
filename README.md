@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...programming and networking
 - 🌱 I’m currently learning ...php and mysql
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...mychael.griffin914@gmail.com
 
 <!---
 Mgriffin914/Mgriffin914 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
